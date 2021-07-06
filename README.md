@@ -4,8 +4,6 @@
 
 > This project was created to demonstrate the understanding of using linter to debug, fix programming and stylistic errors and how pull request works in microverse.
 
-![screenshot](./images/scr-1.jpg)
-
 This project entails creating a hello-microverse branch and adding html and css files, test.md file and adding test.md file to .gitignore file. It has a simple web page that contains only a header and using css to add styles to the header. It also involves installing linters config file to debug and fix errors.
 
 ## Built With
